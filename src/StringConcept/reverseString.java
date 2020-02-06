@@ -35,7 +35,7 @@ public class reverseString {
 
 
     @Test
-    public void scannerFnctionality()
+    public void scannerFnctionality()//Using Split
     {
         String str;
         //Scanner obj = new Scanner(System.in);
